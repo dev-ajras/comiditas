@@ -1,0 +1,15 @@
+MVP
+
+Platos de ejemplo:
+
+1 Persona normal  -> Arroz con pollo 
+2 Vegetariano     -> Sopa de lentejas y vegetales
+3 Celiaco	  -> Ensalada (proteina), cebolla, tomate
+
+
+1 - INGREDIENTES: 
+	Arroz - Pollo
+2 - INGREDIENTES:
+	
+3 - INGREDIENTES:
+	
